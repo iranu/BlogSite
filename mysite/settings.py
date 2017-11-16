@@ -25,7 +25,7 @@ SECRET_KEY = '3(r&=zp#(f20#mfsyc_=v*96-b5@@#e*4-rl7b%5cwbq2vfbfj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vishwas247.pythonanywhere.com']
+ALLOWED_HOSTS = ['vishwas247.pythonanywhere.com','127.0.0.1','localhost']
 
 
 # Application definition
